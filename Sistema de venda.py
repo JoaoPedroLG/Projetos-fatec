@@ -7,7 +7,7 @@ nome=input("Digite o nome do cliente: ")
 valor=float(input("Digite o valor da compra: "))
 condicao_pag=input("Forma de pagamento: ")
 if condicao_pag == "À vista":
-    valor_desconto= valor - (valor*0,07)
+    valor_desconto= valor - (valor*0.07)
     print(f"Nome do cliente: {nome} ")
     print(f"Forma de pagamento: {condicao_pag}")
     print(f"Valor da compra: {valor}")
