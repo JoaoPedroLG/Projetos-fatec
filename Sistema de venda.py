@@ -17,3 +17,4 @@ else:
     print(f"Forma de pagamento: {condicao_pag}")
     print(f"Valor da compra: {valor}")
     
+    
