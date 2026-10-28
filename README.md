@@ -2,12 +2,8 @@ Desafios de Lógica: FATEC Botucatu
 
 Este repositório foi criado para documentar e centralizar a minha evolução prática em lógica de programação e desenvolvimento de software durante o meu primeiro semestre na FATEC.
 
-O Desafio e a Solução
-
 Na faculdade, a nossa grade curricular foca na construção de uma base sólida de lógica utilizando o Portugol.
 Como estratégia de aprendizado autônomo, estou pegando todas as atividades e algoritmos propostos em aula e transcrevendo de Portugol para Python.
-
-Estrutura dos Projetos
 
 Até o momento, converti os seguintes algoritmos:
 
