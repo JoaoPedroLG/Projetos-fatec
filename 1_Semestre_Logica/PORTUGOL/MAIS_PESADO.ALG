@@ -8,7 +8,7 @@ inicio
 Limpatela
       escreval("--------------------------------------")
       escreval("DETECTOR DE PESADO")
-      escreval("Maior peso até agora: ", Mai, " kg")
+      escreval("Maior peso atÃ© agora: ", Mai, " kg")
       escreval("--------------------------------------")
 FimProcedimento
 
