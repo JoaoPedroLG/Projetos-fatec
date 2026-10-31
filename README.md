@@ -7,9 +7,9 @@ Como estratégia de aprendizado autônomo, estou pegando todas as atividades e a
 
 Até o momento, converti os seguintes algoritmos:
 
-*   **Calculadora Real: Sistema simples de operações matemáticas. Evoluído do algoritmo original para suportar números reais (`float`) e com tratamento de erro para impedir divisões por zero.
-*   **Requisitos brinquedo: um exercício  feito para ver se as condições de entrada no brinquedo são atendidas. Estudo sobre condicionais.
-*   **Sistema de venda: outro exercício baseado em condicionais, se a forma de pagamento for "à vista" a tela exibe um desconto, senão, o pagamento segue normalmente.
+*   **Calculadora Real:** Sistema simples de operações matemáticas. Evoluído do algoritmo original para suportar números reais (`float`) e com tratamento de erro para impedir divisões por zero.
+*   **Requisitos brinquedo:** Exercício  feito para ver se as condições de entrada no brinquedo são atendidas. Estudo sobre condicionais.
+*   **Sistema de venda:** Exercício baseado em condicionais, se a forma de pagamento for "à vista" a tela exibe um desconto, senão, o pagamento segue normalmente.
   
 Tecnologias e Ferramentas Praticadas
 
