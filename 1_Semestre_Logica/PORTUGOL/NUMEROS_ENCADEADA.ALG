@@ -1,9 +1,9 @@
 Algoritmo "Numeros"
-//Exibir três números na tela por extenso
+//Exibir trÃªs nÃºmeros na tela por extenso
 Var
    numero: inteiro
 Inicio
-   escreval ("Digite um número entre 0 e 3: ")
+   escreval ("Digite um nÃºmero entre 0 e 3: ")
    leia (numero)
    se (numero = 0) entao
       escreval ("Zero")
@@ -15,9 +15,9 @@ Inicio
             escreval ("Dois")
          senao
             se (numero = 3) entao
-               escreval ("Três")
+               escreval ("TrÃªs")
             senao
-               escreval ("Opção inválida.")
+               escreval ("OpÃ§Ã£o invÃ¡lida.")
             fimse
          fimse
       fimse
