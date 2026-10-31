@@ -14,6 +14,11 @@ Até o momento, converti os seguintes algoritmos:
 * **Requisitos Brinquedo** (`Requisitos_brinquedo.py`): Exercício feito para ver se as condições de entrada no brinquedo são atendidas. Estudo sobre condicionais.
 * **Sistema de Venda** (`Sistema_venda.py`): Outro exercício baseado em condicionais. Se a forma de pagamento for "à vista", a tela exibe um desconto; senão, o pagamento segue normalmente.
 
+Além das conversões, estão em aqui os arquivos em .ALG que foram feitos no visualg:
+
+* **Teste Fibonacci** (`teste_fibonacci.ALG`): Exercício para começar a estudar e entender como funcionam rotinas. Além desse, alguns outros também estão presentes no repositório. O foco está sendo na aprendizagem de Passagem de Parâmetro por Valor e também por Referência. Este será um dos últimos assuntos tratados na disciplina de lógica de programação desse semestre. Os exercícios trabalhados aqui com esse objetivo variam dos que foram feitos em classe, e também de exercícios encontrados na internet.
+* **Equação de 2º grau** (`EQUACAO_2GRAU.ALG`): Estudo sobre rotinas.
+* **Mais Pesado** (`MAIS_PESADO`): Estudo sobre rotinas.
 ---
 
 ### 🛠️ Tecnologias e Ferramentas Praticadas
