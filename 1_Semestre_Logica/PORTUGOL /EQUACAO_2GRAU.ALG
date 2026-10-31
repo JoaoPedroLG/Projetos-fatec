@@ -1,4 +1,4 @@
-Algoritmo "Equação2Grau"
+Algoritmo "EquaÃ§Ã£o2Grau"
 Var
    num1,num2,num3: real
 Procedimento CalculoRaizes(a,b,c: real)
@@ -7,7 +7,7 @@ var
 inicio
    delta<-(b^2)-(4*a*c)
    se(delta<0) entao
-      escreval("Não há raízes reais")
+      escreval("NÃ£o hÃ¡ raÃ­zes reais")
    senao
       x1 <- (-b + raizq(delta)) / (2 * a)
       x2 <- (-b - raizq(delta)) / (2 * a)
@@ -16,14 +16,14 @@ inicio
    fimse
 fimprocedimento
 Inicio
-   escreval("Digite o primeiro número: ")
+   escreval("Digite o primeiro nÃºmero: ")
    leia(num1)
    se (num1=0) entao
-      escreval("Operação Inválida")
+      escreval("OperaÃ§Ã£o InvÃ¡lida")
    senao
-      escreval("Digite o segundo número: ")
+      escreval("Digite o segundo nÃºmero: ")
       leia(num2)
-      escreval("Digite o terceiro número: ")
+      escreval("Digite o terceiro nÃºmero: ")
       leia(num3)
       CalculoRaizes(num1,num2,num3)
    fimse
