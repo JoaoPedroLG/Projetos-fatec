@@ -4,18 +4,6 @@ Este repositório foi criado para documentar e centralizar a minha evolução pr
 
 Na faculdade, a nossa grade curricular foca na construção de uma base sólida de lógica utilizando o Portugol. Como estratégia de aprendizado autônomo, estou pegando todas as atividades e algoritmos propostos em aula e transcrevendo de Portugol para Python.
 
-
-### Cursos em andamento
-
-Além da faculdade, me inscrevi em alguns cursos online para expandir meus conhecimentos e agilizar meu desenvolvimento
-
-* **Algoritmos e Lógica de programação** (Curso em Vídeo)
-* **Git e GitHub** (Curso em Vídeo)
-* **Python 3 – Mundo 1** (Curso em Vídeo)
-* **Introdução à Cibersegurança** (Cisco Networking Academy)
-* **Fundamentos do Python 1** (Cisco Networking Academy)
-* **Fundamentos de Suporte de TI** (Cisco Networking Academy)
-
 ---
 
 ### 💻 Algoritmos Convertidos
