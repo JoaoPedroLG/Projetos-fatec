@@ -2,7 +2,17 @@
 
 Este repositório foi criado para documentar e centralizar a minha evolução prática em lógica de programação e desenvolvimento de software durante o meu primeiro semestre na FATEC (segundo semestre do ano de 2026).
 
-Na faculdade, a nossa grade curricular foca na construção de uma base sólida de lógica utilizando o Portugol. Como estratégia de aprendizado autônomo, estou pegando todas as atividades e algoritmos propostos em aula e transcrevendo de Portugol para Python. Ao mesmo tempo que faço a faculdade, tenho assistido a cursos do *Curso em Vídeo (Guanabara)*, e também estou inscrito em alguns cursos da CISCO que foram ofertados pela FATEC. São eles: Introdução ao Python, Introdução à Cibersegurança e Suporte em TI.
+Na faculdade, a nossa grade curricular foca na construção de uma base sólida de lógica utilizando o Portugol. Como estratégia de aprendizado autônomo, estou pegando todas as atividades e algoritmos propostos em aula e transcrevendo de Portugol para Python.
+
+
+### Cursos em andamento
+
+Além da faculdade, me inscrevi em alguns cursos online para expandir meus conhecimentos e agilizar meu desenvolvimento
+
+* **Algoritmos e Lógica de programação** (Curso em Vídeo)
+* **Introdução à Cibersegurança** (Cisco Networking Academy)
+* **Fundamentos do Python 1** (Cisco Networking Academy)
+* **Fundamentos de Suporte de TI** (Cisco Networking Academy)
 
 ---
 
